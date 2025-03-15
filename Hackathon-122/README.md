@@ -12,3 +12,6 @@ _// Most important: The reality is that things don't always go as we'd like, but
  4. Summasize the progress and revise and design the action plan for the Hackathon 123 Madrid  
     - **By Sunday AM, Hackathon result Quality aside, it reaches this for...**  
  5. Hopefully, next, live drafting toward the Madrid meeting
+
+ ## Specifications
+  - [Consept slide](./draft-proposal-keyconcept-aoki_beta.pdf)
