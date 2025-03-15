@@ -14,4 +14,4 @@ _// Most important: The reality is that things don't always go as we'd like, but
  5. Hopefully, next, live drafting toward the Madrid meeting
 
  ## Specifications
-  - [Consept slide](./draft-proposal-keyconcept-aoki_beta.pdf)
+  - [Concept slide](./draft-proposal-keyconcept-aoki_beta.pdf)
