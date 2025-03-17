@@ -18,3 +18,14 @@ _// Most important: The reality is that things don't always go as we'd like, but
 
  ## Specifications
   - [Concept slide](./draft-proposal-keyconcept-aoki_beta.pdf)
+
+ ## Wrap-up
+  - [A part of Hackathon result slide](./nobuo-scitt-hackathon122-result-yang.pdf)
+  - [Marged version slide](https://datatracker.ietf.org/doc/slides-122-hackathon-sessd-scitt-scrapi-and-yang/)
+
+ ## Next Actions
+  - Start discussing data-flow design with working groups
+  - Begin to write an individual draft of version zero
+
+ ## Maintainer
+  - Nobuo Aoki (n_aoki@ieee.org)
