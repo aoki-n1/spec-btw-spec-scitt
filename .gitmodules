@@ -1,0 +1,4 @@
+[submodule "draft-nobuo-scitt-use-cases-extension"]
+	path = draft-nobuo-scitt-use-cases-extension
+	url = git@github.com:aoki-n1/draft-nobuo-scitt-use-cases-extension.git
+	branch = main
